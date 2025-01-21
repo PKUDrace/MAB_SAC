@@ -1,3 +1,5 @@
+# 第一版训练结果
+
 ## v0
 
 ![image-20250117000003985](/Users/fengyilong/Library/Application Support/typora-user-images/image-20250117000003985.png)
@@ -95,4 +97,16 @@
 ![image-20250117135211236](/Users/fengyilong/Library/Application Support/typora-user-images/image-20250117135211236.png)
 
 ![image-20250117135218935](/Users/fengyilong/Library/Application Support/typora-user-images/image-20250117135218935.png)
+
+# 第二版训练结果
+
+### v1
+
+![image-20250117180854907](/Users/fengyilong/Library/Application Support/typora-user-images/image-20250117180854907.png)
+
+![image-20250117180905472](/Users/fengyilong/Library/Application Support/typora-user-images/image-20250117180905472.png)
+
+![image-20250117180914303](/Users/fengyilong/Library/Application Support/typora-user-images/image-20250117180914303.png)
+
+
 
